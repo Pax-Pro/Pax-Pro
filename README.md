@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jordan "Pax" (@Pax-Pro)
 - 👀 I’m interested in Coding, Programming, Tech, and helping others.
 - 🌱 I’m currently learning HTML & Javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on small & big projects.
 - 📫 How to reach me Email: laidleyjordan22@gmail.com
 - 😄 Pronouns: Male
 - ⚡ Fun fact: Lover of Marvel/DC, Comics, etc.
