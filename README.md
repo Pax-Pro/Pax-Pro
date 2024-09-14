@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pax-Pro
+- 👋 Hi, I’m Jordan "Pax" (@Pax-Pro)
 - 👀 I’m interested in Coding, Programming, Tech, and helping others.
 - 🌱 I’m currently learning HTML & Javascript.
 - 💞️ I’m looking to collaborate on ...
